@@ -2,7 +2,7 @@
   "mappings": [
     "/content/jck-test1/:/",
     "/content/jck-test1/configuration:/.helix/config.json",
-    "/content/jck-test1/metadata:/metadata.json"
+    "/content/jck-test1/metadata:/metadata.json",
     "/content/jck-test1/spreadsheet:/spreadsheet.json"
   ],
   "includes": [
